@@ -4029,3 +4029,10 @@ input, select, textarea {
 	text-decoration: none !important;
 }
 
+.quizlet-gif{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
